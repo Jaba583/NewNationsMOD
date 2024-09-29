@@ -21,7 +21,7 @@
 		"uniqueName": "Centralization",
 		"uniques": ["[+15]% [Gold] [in all cities connected to capital]",
 			    "[+20]% [Production] [in all cities connected to capital]",
-		            "[-25] [Happiness] [in all cities connected to capital]"],
+		            "[-25]% [Happiness] [in all cities connected to capital]"],
 		"cities": ["Moscow", "Vladimir", "Suzdal", "Vologda", "Kolomna", "Serpukhov", "Yaroslavl", "Rostov", "Dmitrov", "Kostroma", "Galich"]
 	}
 ]
