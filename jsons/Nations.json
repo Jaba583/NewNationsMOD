@@ -13,5 +13,19 @@
 			    "[+20]% [Production] [in all cities connected to capital]",
 		            "[-25]% [Happiness] [in all cities connected to capital]"],
 		"cities": ["Moscow", "Vladimir", "Suzdal", "Vologda", "Kolomna", "Serpukhov", "Yaroslavl", "Rostov", "Dmitrov", "Kostroma", "Galich"]
-	}
+	},
+	{
+		"name": Novgorod",
+		"leaderName": "Alexander Nevsky",
+		"adjective": ["Russians"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
+		
+		"outerColor": [178, 34, 34],
+		"innerColor": [245, 245, 245],
+		"uniqueName": "Veche",
+		"uniques": ["[+5 Culture] from every specialist [in all cities]",
+		            "Specialist is earned [50]% faster [in all cities]],
+		"cities": [Novgorod, Pskov, Ladoga, Rusa, Vyatka, Torzhok, Volok na Lama, Vologda, Bezhetsk]
+	},
 ]
