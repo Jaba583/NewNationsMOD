@@ -19,9 +19,9 @@
 		"outerColor": [139, 0, 0],
 		"innerColor": [255, 215, 0],
 		"uniqueName": "Centralization",
-		"uniques": ["[+15]% [Gold] per [in all cities connected to capital]",
-			    "[+20]% [Production] per [in all cities connected to capital]",
-		            "[-25]% [Happiness] per [in all cities connected to capital]"],
+		"uniques": ["[+15]% [Gold] from every [in all cities connected to capital]",
+			    "[+20]% [Production] from every [in all cities connected to capital]",
+		            "[-25]% [Happiness] from every [in all cities connected to capital]"],
 		"cities": ["Moscow", "Vladimir", "Suzdal", "Vologda", "Kolomna", "Serpukhov", "Yaroslavl", "Rostov", "Dmitrov", "Kostroma", "Galich"]
 	}
 ]
