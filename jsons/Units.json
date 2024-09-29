@@ -24,7 +24,7 @@
         "cost": 75,
         "requiredTech": "Compass",
         "obsoleteTech": "Navigation",
-        "upgradesTo": "Frigate",
+        "promotions": ["Coastal Raider I"],
         "uniques": ["Cannot enter ocean tiles",
                     "Can enter river tiles"],
         "attackSound": "arrow"
