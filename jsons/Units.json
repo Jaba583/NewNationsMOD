@@ -26,7 +26,7 @@
         "obsoleteTech": "Navigation",
         "upgradesTo": "Frigate",
         "uniques": ["Cannot enter ocean tiles",
-                    "Can enter reaver tiles"],
+                    "Can enter river tiles"],
         "attackSound": "arrow"
     }
 ]
