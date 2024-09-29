@@ -1,0 +1,17 @@
+[
+      {
+        "name": "Sagittarius",
+        "unitType": "Gunpowder",
+        "replaces": "Musketman",
+        "uniqueTo": "Moscow",
+        "movement": 2,
+        "strength": 25,
+        "cost": 170,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "promotions": ["Drill I","Formation I"],
+        "uniques": ["Can build [Fort] improvements on tiles"],
+        "attackSound": "shot"
+    }
+]
