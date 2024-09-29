@@ -24,8 +24,7 @@
 		"outerColor": [178, 34, 34],
 		"innerColor": [245, 245, 245],
 		"uniqueName": "Veche",
-		"uniques": ["[+5 Culture] from every specialist [in all cities]",
-		            "Specialist is earned [50]% faster [in all cities],
+		"uniques": ["[+5 Culture] from every specialist [in all cities]"],
 		"cities": [Novgorod, Pskov, Ladoga, Rusa, Vyatka, Torzhok, Volok na Lama, Vologda, Bezhetsk]
 	}
 ]
