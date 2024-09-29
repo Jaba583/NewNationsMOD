@@ -13,5 +13,20 @@
         "promotions": ["Drill I","Formation I"],
         "uniques": ["Can build [Fort] improvements on tiles"],
         "attackSound": "shot"
+    },
+    {
+        "name": "Ushkuynik",
+        "unitType": "Ranged Water",
+        "replaces": "Galleass",
+        "uniqueTo": "Novgorod",
+        "movement": 2,
+        "strength": 14,
+        "cost": 75,
+        "requiredTech": "Compass",
+        "obsoleteTech": "Navigation",
+        "upgradesTo": "Frigate",
+        "uniques": ["Cannot enter ocean tiles",
+                    "Can enter reaver tiles"],
+        "attackSound": "arrow"
     }
 ]
