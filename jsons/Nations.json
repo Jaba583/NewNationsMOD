@@ -26,7 +26,7 @@
 		"uniqueName": "Veche",
 		"uniques": ["[+5 Culture] from every specialist [in all cities]",
 		            "[Great Artist] is earned [100]% faster",
-		            "[Great Merchant] is earned [100]% faster <during a Golden Age>"],
+		            "[Great Merchant] is earned [100]% faster"],
 		"cities": ["Novgorod", "Pskov", "Ladoga", "Rusa", "Vyatka", "Torzhok", "Volok na Lama", "Vologda", "Bezhetsk"]
 	}
 ]
