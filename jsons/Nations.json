@@ -5,23 +5,13 @@
 		"adjective": ["Russians"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
-
-        "startIntroPart1": " ",
-        "startIntroPart2": " ",
-        "declaringWar": "I had a vision from God himself, and he has told me to smite you down!",
-        "attacked": "I have God in my side! What do you have in yours?",
-        "defeated": "So much bloodshed.. But if this is the will of God, then I must accept this cruel fate.",
-        "introduction": "It seems God has foreseen our encounter. I am Ezana, King of Aksum, but the true king of Heaven and Earth is, of course, Christ himself.",
-        "neutralHello": "May God bless your soul.",
-        "hateHello": "I do not have time to speak.",
-        "tradeRequest": "Trading it's a fine thing God has bring, don't you agree?",
 		
 		"outerColor": [139, 0, 0],
 		"innerColor": [255, 215, 0],
 		"uniqueName": "Centralization",
-		"uniques": ["[+150]% [Gold] [in all cities connected to capital]",
-			    "[+150]% [Production] [in all cities connected to capital]",
-		            "[-150]% [Happiness] [in all cities connected to capital]"],
+		"uniques": ["[+15]% [Gold] [in all cities connected to capital]",
+			    "[+20]% [Production] [in all cities connected to capital]",
+		            "[-25]% [Happiness] [in all cities connected to capital]"],
 		"cities": ["Moscow", "Vladimir", "Suzdal", "Vologda", "Kolomna", "Serpukhov", "Yaroslavl", "Rostov", "Dmitrov", "Kostroma", "Galich"]
 	}
 ]
